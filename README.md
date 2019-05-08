@@ -1,0 +1,2 @@
+# ignorehosts
+my ignore hosts
